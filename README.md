@@ -1,7 +1,7 @@
 Executive Summary
 This repository contains the official Product Requirements Document (PRD), Strategic Presentation Deck, and architectural specifications for transforming the newsroom operations of Youm7 (Egyptian Media and Publishing Co., UMS Group).
 
-The initiative upgrades legacy editorial processes into an AI-Augmented Collaborative Workspace, cutting breaking-news Time-to-Publish (TTP) from ~40 minutes down to $\le$ 10–12 minutes while ensuring linguistic accuracy, SEO optimization, and data sovereignty.
+The initiative upgrades legacy editorial processes into an AI-Augmented Collaborative Workspace, cutting breaking-news Time-to-Publish (TTP) from 40 minutes down to less than 10–12 minutes while ensuring linguistic accuracy, SEO optimization, and data sovereignty.
 
 
 
@@ -14,7 +14,7 @@ Document Scope
 
 Architectural Foundations
 
-AI Strategy:** Fine-tuned Open-Source LLM grounded by a proprietary Retrieval-Augmented Generation (RAG) pipeline indexing Youm7's verified archives, eliminating external vendor lock-in and token leakage.
+AI Strategy: Fine-tuned Open-Source LLM grounded by a proprietary Retrieval-Augmented Generation (RAG) pipeline indexing Youm7's verified archives, eliminating external vendor lock-in and token leakage.
 Hosting Model: Managed Platform-as-a-Service (PaaS) on an enterprise private cloud, providing tenant isolation.
 Editorial Governance: A strict Human-in-the-Loop (HITL)framework with automated fallback to manual review within 5 seconds in case of latency, ensuring zero unverified publications.
 
