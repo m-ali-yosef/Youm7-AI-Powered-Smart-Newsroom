@@ -10,7 +10,7 @@ Document / Artifact | Type | Description |
 Docs/Youm7-AI-Editorial-Platform-PRD.docx PRD:  Full functional requirements, BPMN workflows, user stories, and acceptance criteria.
 Presentations/Youm7-Strategy-Architecture-Deck.pptx Presentation: Strategic business case, weighted evaluation matrix, technology justification, and financial analysis. 
 Diagrams: High-resolution BPMN diagrams, PaaS infrastructure topology, and KPI dashboard mockups. 
----
+
 
 Architectural Foundations
 
@@ -22,8 +22,8 @@ Editorial Governance: A strict Human-in-the-Loop (HITL)framework with automated 
 
 Rollout Roadmap (9-Month Phased Plan)
 
-1. **Months 1–2 (Foundation): PaaS environment provisioning, historical archive cleansing, and baseline LLM benchmarking.
-2. **Months 3–4 (Development): Supervised fine-tuning on stylebooks and development of the rich-text editor side panel.
-3. **Months 5–6 (Pilot & Integration): Secure API connection to Headless CMS and pilot deployment in a single editorial section.
-4. **Months 7–9 (Enterprise Cutover): Organization-wide rollout, HITL role training, and real-time drift monitoring.
+1. Months 1–2 (Foundation): PaaS environment provisioning, historical archive cleansing, and baseline LLM benchmarking.
+2. Months 3–4 (Development): Supervised fine-tuning on stylebooks and development of the rich-text editor side panel.
+3. Months 5–6 (Pilot & Integration): Secure API connection to Headless CMS and pilot deployment in a single editorial section.
+4. Months 7–9 (Enterprise Cutover): Organization-wide rollout, HITL role training, and real-time drift monitoring.
 
