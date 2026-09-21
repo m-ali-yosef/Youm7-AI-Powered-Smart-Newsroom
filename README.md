@@ -1,4 +1,4 @@
-Executive Summary
+Executive Summary:
 
 This repository contains the official Product Requirements Document (PRD), Strategic Presentation Deck, and architectural specifications for transforming the newsroom operations of Youm7 (Egyptian Media and Publishing Co., UMS Group).
 
@@ -6,14 +6,14 @@ The initiative upgrades legacy editorial processes into an AI-Augmented Collabor
 
 
 
-Document Scope
+Document Scope:
 
 1. AI-Editorial-Platform-PRD.docx:  Full functional requirements, BPMN workflows, user stories, and acceptance criteria.
 2. Strategy-Architecture-Deck.pptx: Strategic business case, weighted evaluation matrix, technology justification, and financial analysis. 
 3. Diagrams: High-resolution BPMN diagrams, PaaS infrastructure topology, and KPI dashboard mockups. 
 
 
-Architectural Foundations
+Architectural Foundations:
 
 AI Strategy: Fine-tuned Open-Source LLM grounded by a proprietary Retrieval-Augmented Generation (RAG) pipeline indexing Youm7's verified archives, eliminating external vendor lock-in and token leakage.
 Hosting Model: Managed Platform-as-a-Service (PaaS) on an enterprise private cloud, providing tenant isolation.
@@ -21,7 +21,7 @@ Editorial Governance: A strict Human-in-the-Loop (HITL)framework with automated 
 
 
 
-Rollout Roadmap (9-Month Phased Plan)
+Rollout Roadmap:
 
 1. Months 1–2 (Foundation): PaaS environment provisioning, historical archive cleansing, and baseline LLM benchmarking.
 2. Months 3–4 (Development): Supervised fine-tuning on stylebooks and development of the rich-text editor side panel.
