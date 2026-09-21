@@ -5,7 +5,7 @@ The initiative upgrades legacy editorial processes into an AI-Augmented Collabor
 
 
 
-Document / Artifact | Type | Description |
+Document Scope
 
 Youm7-AI-Editorial-Platform-PRD.docx PRD:  Full functional requirements, BPMN workflows, user stories, and acceptance criteria.
 Youm7-Strategy-Architecture-Deck.pptx Presentation: Strategic business case, weighted evaluation matrix, technology justification, and financial analysis. 
